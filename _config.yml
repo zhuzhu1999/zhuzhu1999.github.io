@@ -2,7 +2,7 @@
 title: Zhuzhu's Blog
 SEOTitle: Zhuzhu's 大平層 | Zhuzhu's Blog
 header-img: img/home-bg.jpg
-description: "關於海浪與腦細胞、月亮與直角坐標系 | Zhuzhu，The world, Lifestyle, Explorations  | 這裡是Zhuzhu的海景大平層，一個放飛自我的地方。"
+description: "關於海蠣與腦細胞、月亮與直角坐標系 | Zhuzhu，The world, Lifestyle, Explorations  | 這裡是Zhuzhu的海景大平層，一個放飛自我的地方。"
 keyword: "博客, 個人網站, 記錄, ..."
 url: "https://zhuzhu1999.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -76,8 +76,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_track_id: 'UA-234381540-1'            # Format: UA-xxxxxx-xx
+ga_domain: zhuzhu1999.github.io
 
 
 
